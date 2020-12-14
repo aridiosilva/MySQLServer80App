@@ -19,7 +19,7 @@
 - [The MySQL Test Framework](https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_MYSQL_TEST_RUN.html)
 - [Index of Full Documentation MySQL](https://dev.mysql.com/doc/)
 - [Language Structure](https://dev.mysql.com/doc/refman/8.0/en/language-structure.html)
-- [Data Types](https://dev.mysql.com/doc/refman/8.0/en/data-types.html
+- [Data Types](https://dev.mysql.com/doc/refman/8.0/en/data-types.html)
 - [Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/functions.html)
 - [Character Sets, Collations, Unicode](https://dev.mysql.com/doc/refman/8.0/en/charset.html)
 - [SQL Statements](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)

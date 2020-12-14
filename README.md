@@ -5,10 +5,8 @@
 
 - [MySQL Reference Manual](https://dev.mysql.com/doc/)
 - [MySQL 8.0 Error Message Reference](https://dev.mysql.com/doc/mysql-errors/8.0/en/)
-
 - [General Information](https://dev.mysql.com/doc/refman/8.0/en/introduction.html)
 - [Installing and Upgrading](https://dev.mysql.com/doc/refman/8.0/en/installing.html)
-
 - [MySQL Programs](https://dev.mysql.com/doc/refman/8.0/en/programs.html)
 - [MySQL Shell 8.0 (part of MySQL 8.0](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
 - [MySQL Workbench 8.0](https://dev.mysql.com/doc/workbench/en/)   
@@ -17,12 +15,9 @@
 - [MySQL Connector/J 8.0 Developer Guide](https://dev.mysql.com/doc/connector-j/8.0/en/)
 - [MySQL Connector/J 8.0 Developer Guide](https://dev.mysql.com/doc/connector-j/8.0/en/)
 - [MySQL Connector/ODBC Developer Guide](https://dev.mysql.com/doc/connector-odbc/en/)
-
 - [MySQL Internals Manual](https://dev.mysql.com/doc/internals/en/)
 - [The MySQL Test Framework](https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_MYSQL_TEST_RUN.html)
 - [Index of Full Documentation MySQL](https://dev.mysql.com/doc/)
-
-- [MySQL Glossary](https://dev.mysql.com/doc/refman/8.0/en/glossary.html)
 
 - [Language Structure](https://dev.mysql.com/doc/refman/8.0/en/language-structure.html)
 - [Data Types](https://dev.mysql.com/doc/refman/8.0/en/data-types.html
@@ -48,7 +43,7 @@
 - [Using MySQL as a Document Store](https://dev.mysql.com/doc/refman/8.0/en/document-store.html)
 
 - [Tutorial](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)
-
+- [MySQL Glossary](https://dev.mysql.com/doc/refman/8.0/en/glossary.html)
 ## E-R Model 
 
 ![Modelo E_R](https://github.com/aridiosilva/MySQLServer80App/blob/main/Full%20Modelo%20E-R%20Sakira%20Database.jpg)

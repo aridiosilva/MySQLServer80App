@@ -2,10 +2,10 @@
 
 ## MySQL Server Documentation
 
-[MySQL Shell 8.0 (part of MySQL 8.0](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
-![MySQL Workbench 8.0](https://dev.mysql.com/doc/workbench/en/)   
-![MySQL Reference Manual](https://dev.mysql.com/doc/)
-![MySQL Router 8.0](https://dev.mysql.com/doc/mysql-router/8.0/en/) 
+- [MySQL Shell 8.0 (part of MySQL 8.0](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
+- [MySQL Workbench 8.0](https://dev.mysql.com/doc/workbench/en/)   
+- [MySQL Reference Manual](https://dev.mysql.com/doc/)
+- [MySQL Router 8.0](https://dev.mysql.com/doc/mysql-router/8.0/en/) 
 
 ## E-R Model 
 

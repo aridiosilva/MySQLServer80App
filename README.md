@@ -5,7 +5,15 @@
 - [MySQL Shell 8.0 (part of MySQL 8.0](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
 - [MySQL Workbench 8.0](https://dev.mysql.com/doc/workbench/en/)   
 - [MySQL Reference Manual](https://dev.mysql.com/doc/)
-- [MySQL Router 8.0](https://dev.mysql.com/doc/mysql-router/8.0/en/) 
+- [MySQL Router 8.0](https://dev.mysql.com/doc/mysql-router/8.0/en/)
+- [MySQL 8.0 Error Message Reference](https://dev.mysql.com/doc/mysql-errors/8.0/en/)
+- [Connectors and APIs Manual](https://dev.mysql.com/doc/connectors/en/)
+- [MySQL Connector/J 8.0 Developer Guide](https://dev.mysql.com/doc/connector-j/8.0/en/)
+- [MySQL Connector/J 8.0 Developer Guide](https://dev.mysql.com/doc/connector-j/8.0/en/)
+- [MySQL Connector/ODBC Developer Guide](https://dev.mysql.com/doc/connector-odbc/en/)
+- [MySQL Internals Manual](https://dev.mysql.com/doc/internals/en/)
+- [The MySQL Test Framework](https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_MYSQL_TEST_RUN.html)
+- [Index of Full Documentation MySQL](https://dev.mysql.com/doc/)
 
 ## E-R Model 
 

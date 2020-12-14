@@ -18,32 +18,26 @@
 - [MySQL Internals Manual](https://dev.mysql.com/doc/internals/en/)
 - [The MySQL Test Framework](https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_MYSQL_TEST_RUN.html)
 - [Index of Full Documentation MySQL](https://dev.mysql.com/doc/)
-
 - [Language Structure](https://dev.mysql.com/doc/refman/8.0/en/language-structure.html)
 - [Data Types](https://dev.mysql.com/doc/refman/8.0/en/data-types.html
 - [Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/functions.html)
 - [Character Sets, Collations, Unicode](https://dev.mysql.com/doc/refman/8.0/en/charset.html)
-
 - [SQL Statements](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
 - [Stored Objects](https://dev.mysql.com/doc/refman/8.0/en/stored-objects.html)
 - [MySQL Data Dictionary](https://dev.mysql.com/doc/refman/8.0/en/data-dictionary.html)
 - [INFORMATION_SCHEMA Tables](https://dev.mysql.com/doc/refman/8.0/en/information-schema.html)
-
 - [Indexes](https://dev.mysql.com/doc/refman/8.0/en/indexes.html)
 - [Partitioning](https://dev.mysql.com/doc/refman/8.0/en/partitioning.html)
-
 - [Security](https://dev.mysql.com/doc/refman/8.0/en/security.html)
 - [Backup and Recovery](https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html)
 - [Optimization](https://dev.mysql.com/doc/refman/8.0/en/optimization.html)
-
 - [MySQL Server Administration](https://dev.mysql.com/doc/refman/8.0/en/server-administration.html)
-
 - [Error Messages and Common Problems](https://dev.mysql.com/doc/refman/8.0/en/error-handling.html)
 - [MySQL Performance Schema](https://dev.mysql.com/doc/refman/8.0/en/performance-schema.html)
 - [Using MySQL as a Document Store](https://dev.mysql.com/doc/refman/8.0/en/document-store.html)
-
 - [Tutorial](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)
 - [MySQL Glossary](https://dev.mysql.com/doc/refman/8.0/en/glossary.html)
+
 ## E-R Model 
 
 ![Modelo E_R](https://github.com/aridiosilva/MySQLServer80App/blob/main/Full%20Modelo%20E-R%20Sakira%20Database.jpg)

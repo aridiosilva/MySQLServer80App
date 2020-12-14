@@ -5,7 +5,10 @@
 [MySQL Shell 8.0 (part of MySQL 8.0](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
 ## E-R Model 
 
-![Modelo E_R](https://github.com/aridiosilva/MySQLServer80App/blob/main/Full%20Modelo%20E-R%20Sakira%20Database.jpg)
+![Modelo E_R](https://github.com/aridiosilva/MySQLServer80App/blob/main/Full%20Modelo%20E-R%20Sakira%20Database.jpg) - MySQL Shell is an advanced client and code editor for MySQL. 
+![MySQL Workbench 8.0](https://dev.mysql.com/doc/workbench/en/) - MySQL Workbench is a graphical tool for working with MySQL servers and databases. 
+![MySQL Reference Manual](https://dev.mysql.com/doc/) - this Reference Manual Contains 5588 pages and everything related to the version 8.0 of MySQL
+![MySQL Router 8.0](https://dev.mysql.com/doc/mysql-router/8.0/en/) - MySQL Router is part of InnoDB Cluster, and is lightweight middleware that provides transparent routing between your application and back-end MySQL Servers. It can be used for a wide variety of use cases, such as providing high availability and scalability by effectively routing database traffic to appropriate back-end MySQL Servers. 
 
 ## Database Schema
 

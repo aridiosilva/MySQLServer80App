@@ -16,6 +16,7 @@
 - [The MySQL Test Framework](https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_MYSQL_TEST_RUN.html)
 - [Index of Full Documentation MySQL](https://dev.mysql.com/doc/)
 - [MySQL Glossary](https://dev.mysql.com/doc/refman/8.0/en/glossary.html)
+- [SQL Statements](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
 
 ## E-R Model 
 

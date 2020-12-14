@@ -6,7 +6,7 @@
 
 ## Database Schema
 
-'''js
+```sql
 -- Sakila Sample Database Schema
 -- Version 1.2
 

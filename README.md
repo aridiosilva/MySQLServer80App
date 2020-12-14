@@ -2,4 +2,4 @@
 
 ## E-R Model 
 
-![Modelo E_R](file:///C:/%23%20%20CURSOS2020/SQL%20Databases/MySQL%208.20/Sample%20DB/Modelo%20E-R%20Sakila%20Database%20DEC%202020.svg)
+![Modelo E_R](https://github.com/aridiosilva/MySQLServer80App/blob/main/Modelo%20E-R%20Sakila%20Database%20DEC%202020.svg)

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Application Based on Relational Database Using MySQL Server 8.0
 
 ## MySQL Server Documentation

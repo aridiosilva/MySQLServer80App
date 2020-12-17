@@ -42,6 +42,8 @@
 - [Indexes](https://dev.mysql.com/doc/refman/8.0/en/indexes.html)
 - [Partitioning](https://dev.mysql.com/doc/refman/8.0/en/partitioning.html)
 
+## Tutorial
+
 - [tutorial University](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
 
 ## E-R Model 

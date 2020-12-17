@@ -42,6 +42,8 @@
 - [Indexes](https://dev.mysql.com/doc/refman/8.0/en/indexes.html)
 - [Partitioning](https://dev.mysql.com/doc/refman/8.0/en/partitioning.html)
 
+- [tutorial University](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
+
 ## E-R Model 
 
 ![Modelo E_R](https://github.com/aridiosilva/MySQLServer80App/blob/main/Full%20Modelo%20E-R%20Sakira%20Database.jpg)

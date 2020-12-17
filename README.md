@@ -47,8 +47,8 @@
 - [tutorial University](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
 - [JDBC Online Tutorial](http://download.oracle.com/javase/tutorial/jdbc/index.html)
 - [JDBC Home Page](http://www.oracle.com/technetwork/java/javase/jdbc/index.html)
-- [White Fisher, et al., Book "JDBC API Tutorial and Reference", 3rd eds, Addison Wesley, 2003]()
-- [Russell Dyer, Book "MySQL in a Nutshell", O'Reilly, 2008]()
+- White Fisher, et al., Book "JDBC API Tutorial and Reference", 3rd eds, Addison Wesley, 2003
+- Russell Dyer, Book "MySQL in a Nutshell", O'Reilly, 2008
 
 ## E-R Model 
 

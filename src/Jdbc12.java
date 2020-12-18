@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-
 /*
 The purpose of this program is to log onto
 the master database named mysql as the default

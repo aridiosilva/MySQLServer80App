@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 import java.sql.*;     // Use classes in java.sql package

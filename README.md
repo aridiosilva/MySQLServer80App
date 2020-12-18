@@ -42,6 +42,14 @@
 - [Indexes](https://dev.mysql.com/doc/refman/8.0/en/indexes.html)
 - [Partitioning](https://dev.mysql.com/doc/refman/8.0/en/partitioning.html)
 
+## Tutorial
+
+- [tutorial University](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
+- [JDBC Online Tutorial](http://download.oracle.com/javase/tutorial/jdbc/index.html)
+- [JDBC Home Page](http://www.oracle.com/technetwork/java/javase/jdbc/index.html)
+- White Fisher, et al., Book "JDBC API Tutorial and Reference", 3rd eds, Addison Wesley, 2003
+- Russell Dyer, Book "MySQL in a Nutshell", O'Reilly, 2008
+
 ## E-R Model 
 
 ![Modelo E_R](https://github.com/aridiosilva/MySQLServer80App/blob/main/Full%20Modelo%20E-R%20Sakira%20Database.jpg)

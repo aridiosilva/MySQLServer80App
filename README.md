@@ -50,6 +50,14 @@
 - White Fisher, et al., Book "JDBC API Tutorial and Reference", 3rd eds, Addison Wesley, 2003
 - Russell Dyer, Book "MySQL in a Nutshell", O'Reilly, 2008
 
+## Oracle JDBC SQL Syntax (Tutorials)
+
+- [Processing SQL Statements with JDBC](https://docs.oracle.com/javase/tutorial/jdbc/basics/processingsqlstatements.html)
+
+## Google Cloud SQL
+
+- [Cloud SQL](https://cloud.google.com/sql/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-b-dr-1009133-LUAC0008682&utm_content=text-ad-none-any-DEV_c-CRE_429626774298-ADGP_SKWS%20%7C%20Multi%20~%20Storage%20%7C%20SQL-KWID_43700040369789857-kwd-20957339728&utm_term=KW_%2Bsql-ST_%2BSQL&gclid=Cj0KCQiA5vb-BRCRARIsAJBKc6IQQRg2zbi4RUVThYyA3jC9OdFxF9ZQ3oaOCBX8-Layzt6hqvED__EaAmvmEALw_wcB&gclsrc=aw.ds)
+
 ## E-R Model 
 
 ![Modelo E_R](https://github.com/aridiosilva/MySQLServer80App/blob/main/Full%20Modelo%20E-R%20Sakira%20Database.jpg)
